@@ -21,4 +21,4 @@ Here you can find repositories containing our project and community related docu
 
 ## ☎️ Contact
 
-This repository is maintained by the Community Manager for the partnership, Vicky Hellon. You can reach her at vhellon@turing.ac.uk
+This GitHub Organisation is maintained by the Community Manager for the partnership, Vicky Hellon. You can reach her at vhellon@turing.ac.uk
