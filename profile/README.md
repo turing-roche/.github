@@ -22,3 +22,12 @@ Here you can find repositories containing our project and community related docu
 ## ☎️ Contact
 
 This GitHub Organisation is maintained by the Community Manager for the partnership, Vicky Hellon. You can reach her at vhellon@turing.ac.uk
+
+## ♻️ License
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is [licensed](https://github.com/turing-roche/.github?tab=License-1-ov-file) under the Creative Commons Attribution 4.0 International license for documentation. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions.
+
+## ⚠️ Code of Conduct
+
+You can find our Turing-Roche Code of Conduct and Slack Workspace Policy [here](https://github.com/turing-roche/.github?tab=coc-ov-file), which applies to all our events, platforms and repositories.
