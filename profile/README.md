@@ -21,7 +21,7 @@ Here you can find repositories containing our project and community related docu
 
 ## ☎️ Contact
 
-This GitHub Organisation is maintained by the Community Manager for the partnership, Vicky Hellon. You can reach her at vhellon@turing.ac.uk
+This GitHub Organisation is maintained by the Programme Manager for the partnership, Maria Anagnostopoulou. You can reach her at managnostopoulou@turing.ac.uk 
 
 ## ♻️ License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
