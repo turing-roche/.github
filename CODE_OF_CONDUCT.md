@@ -28,7 +28,7 @@ Partnership team repository maintainers have the right and responsibility to rem
 In addition to this code of conduct, all attendees to our events are also expected to adhere to the [Turing Events Code of Conduct](https://www.turing.ac.uk/events/policies-and-guidelines). 
 
 ### Contact information
-If you would like to report an incident or have any concerns at any time you may contact the Vicky Hellon, Community Manager for the partnership at vhellon@turing.ac.uk or Project Manager for the partnership Michelle O’Gorman at michelle.ogorman@roche.com. 
+If you would like to report an incident or have any concerns at any time you may contact Maria Anagnostopoulou, Programme Manager for the partnership at managnostopoulou@turing.ac.uk or Project Manager for the partnership Michelle O’Gorman at michelle.ogorman@roche.com. 
 
 Alternatively, if you would like to contact someone outside of the core partnership team, please contact Alexandra Araujo Alvarez by email at aaraujo.alvarez@turing.ac.uk
 
